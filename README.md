@@ -1,4 +1,4 @@
-# AppComponentSample
+# AppModularizationSample   
 
 ### 参考资料    
 1、[Android组件化和插件化开发](https://www.cnblogs.com/android-blogs/p/5703355.html)        
