@@ -121,8 +121,8 @@ project.ext {
             "dagger-compiler"             : "com.google.dagger:dagger-compiler:${daggerVersion}",
 
             /** router */
-            "router"                      : "com.baronzhang.android:router:${routerVersion}",
-            "router-compiler"             : "com.baronzhang.android:router-compiler:${routerVersion}",
+            //"router"                      : "com.baronzhang.android:router:${routerVersion}",
+            //"router-compiler"             : "com.baronzhang.android:router-compiler:${routerVersion}",
 
             /** butterKnife */
             "butterknife"                 : "com.jakewharton:butterknife:${butterKnifeVersion}",
