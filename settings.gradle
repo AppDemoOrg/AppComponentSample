@@ -1,1 +1,1 @@
-include ':app', ':basiclib', ':basicres',/* ':build-gradle', */':lib', ':componentlib'
+include ':app', ':basiclib', ':basicres', ':router-annotation',/* ':build-gradle', */':lib', ':componentlib'
